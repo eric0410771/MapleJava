@@ -1,0 +1,7 @@
+PowerElixir 5000
+Elixir 2000
+Onigiri 1000
+CololCake 1000
+HeartStopper 50000
+IncreApple 30000
+Victoria'sAmorianBasket 40000

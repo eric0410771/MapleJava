@@ -1,0 +1,4 @@
+3
+The monster "Barlog" is very horrible.
+If you want to go to kill him. You should bring enough potion
+with you, or you will die. "Barlog" can use magic to attack.
